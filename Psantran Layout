@@ -1,6 +1,6 @@
 partial alphanumeric_keys
-xkb_symbols "sfr" {
-    name[Group1]= "Hebrew (Shofar)";
+xkb_symbols "psntr" {
+    name[Group1]= "Hebrew (Psantran)";
 
     //Similar to but not decended from SI 1452 of the Standards Institution of Israel
     //uses Hebrew (lyx) as baseline.
