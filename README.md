@@ -7,3 +7,4 @@ SI 1452 is the most similar to the traditional Hebrew PC Keyboard. Harmonisiong 
 Psantran does this sligtly differently and also move the niqqud to the upper case of the home row. It doesn't feature Capital Latin cherecters on the upper case of the layout (hence requiring a switch to a latin Keyboard)
 Kanar is a more radical change. moving the final letters to the upper case of their regular variants. along with other niqquds and letter varients, really utilising the keyboard to write in Hebrew.
 
+note: the SI 1452 keyboard resources would proabably have to be under different (non-ristrictive or public domain) license as I absuloutly can't claim to own it, I only want to make it aviable in the same formets at the other 2.
